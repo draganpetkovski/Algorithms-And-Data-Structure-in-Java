@@ -1,0 +1,1 @@
+Convert binary number represented in Linked List to decade number
